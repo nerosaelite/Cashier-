@@ -1,0 +1,5 @@
+project_id = "thmfnrhrsaxptymnacmm"
+
+[functions.pos-admin-users]
+verify_jwt = true
+
